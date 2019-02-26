@@ -1,9 +1,9 @@
 versioncheck 3.00 (항상 소수점 두자리까지 입력)
-F1inhttp://tutorialvideosampleF1out
-F2inhttp://tutorialvideosampleF2out
-F3inhttp://tutorialvideosampleF3out
-F9inhttp://tutorialvideosampleF9out
-F10inhttp://tutorialvideosampleF10out
+F1inhttp://F1-tutorialvideosampleF1out
+F2inhttp://F2-tutorialvideosampleF2out
+F3inhttp://F3-tutorialvideosampleF3out
+F9inhttp://F9-tutorialvideosampleF9out
+F10inhttp://F10-tutorialvideosampleF10out
 
 70409579629037 804091281572469 204123193271767 1204123067909246 404121152847322 204091052159280 404093968380949 130412976268063 
 804093020250770 504091490051706
