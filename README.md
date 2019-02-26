@@ -1,4 +1,4 @@
-versioncheck 3.00 (항상 소수점 두자리까지 입력)
+versioncheck 3.01 (항상 소수점 두자리까지 입력)
 Tutorials in Korean
 F1inkhttps://www.supremenewyork.com/F1outk
 F2inkhttp://F2K-tutorialvideosampleF2outk
