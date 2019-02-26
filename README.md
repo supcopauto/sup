@@ -9,7 +9,7 @@ F10inkhttp://F10K-tutorialvideosampleF10outk
 
 Tutorials in English
 F1inehttps://www.supremenewyork.com/F1oute
-F2inehttp://F2-tutorialvideosampleF2oute
+F2inehttps://drive.google.com/open?id=1L-N_Mbt1T-7Di50FZjyV4_OjKLANneOYF2oute
 F3inehttp://F3-tutorialvideosampleF3oute
 F4inehttp://F3-tutorialvideosampleF4oute
 F9inehttp://F9-tutorialvideosampleF9oute
