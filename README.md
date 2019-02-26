@@ -1,7 +1,7 @@
 versioncheck 3.00 (항상 소수점 두자리까지 입력)
 Tutorials in Korean
 F1inkhttps://www.supremenewyork.com/F1outk
-F2inkhttp://F2K-tutorialvideosampleF2outk
+F2inkhttps://drive.google.com/open?id=1L-N_Mbt1T-7Di50FZjyV4_OjKLANneOYF2outk
 F3inkhttp://F3K-tutorialvideosampleF3outk
 F4inkhttp://F3K-tutorialvideosampleF4outk
 F9inkhttp://F9K-tutorialvideosampleF9outk
