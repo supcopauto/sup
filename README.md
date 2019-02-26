@@ -6,6 +6,7 @@ F3inkhttp://F3K-tutorialvideosampleF3outk
 F4inkhttp://F3K-tutorialvideosampleF4outk
 F9inkhttp://F9K-tutorialvideosampleF9outk
 F10inkhttp://F10K-tutorialvideosampleF10outk
+Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
 
 Tutorials in English
 F1inehttps://www.supremenewyork.com/F1oute
@@ -14,6 +15,7 @@ F3inehttp://F3-tutorialvideosampleF3oute
 F4inehttp://F3-tutorialvideosampleF4oute
 F9inehttp://F9-tutorialvideosampleF9oute
 F10inehttp://F10-tutorialvideosampleF10oute
+Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ9MYXUMEmanualout
 
 70409579629037 804091281572469 204123193271767 1204123067909246 404121152847322 204091052159280 404093968380949 130412976268063 
 804093020250770 504091490051706
