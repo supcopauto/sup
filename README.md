@@ -11,7 +11,7 @@ F1inehttp://F1-tutorialvideosampleF1oute
 F2inehttp://F2-tutorialvideosampleF2oute
 F3inehttp://F3-tutorialvideosampleF3oute
 F9inehttp://F9-tutorialvideosampleF9oute
-F10iehttp://F10-tutorialvideosampleF10oute
+F10inehttp://F10-tutorialvideosampleF10oute
 
 70409579629037 804091281572469 204123193271767 1204123067909246 404121152847322 204091052159280 404093968380949 130412976268063 
 804093020250770 504091490051706
