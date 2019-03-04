@@ -9,12 +9,12 @@ F10inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=3m11sF10outk
 Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
 
 Tutorials in English
-F1inehttps://www.supremenewyork.com/F1oute
-F2inehttps://drive.google.com/open?id=1L-N_Mbt1T-7Di50FZjyV4_OjKLANneOYF2oute
-F3inehttp://F3-tutorialvideosampleF3oute
-F4inehttp://F4-tutorialvideosampleF4oute
-F9inehttp://F9-tutorialvideosampleF9oute
-F10inehttp://F10-tutorialvideosampleF10oute
+F1inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=0m2sF1oute
+F2inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m11sF2oute
+F3inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m18sF3oute
+F4inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m38sF4oute
+F9inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=2m20sF9oute
+F10inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=3m47sF10oute
 Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ9MYXUMEmanualout
 
 70409579629037 804091281572469 204123193271767 1204123067909246 404121152847322 204091052159280 404093968380949 130412976268063 804093020250770 504091490051706 12815724691281572469(JWCOMP) 872474586872474586 25557866472555786647 38360974013836097401 130409872474586 35984712043598471204 904093020250770 
