@@ -1,11 +1,11 @@
 versioncheck 3.00 (항상 소수점 두자리까지 입력) 
 Tutorials in Korean
-F1inkhttps://www.supremenewyork.com/F1outk
-F2inkhttps://drive.google.com/open?id=1L-N_Mbt1T-7Di50FZjyV4_OjKLANneOYF2outk
-F3inkhttp://F3K-tutorialvideosampleF3outk
-F4inkhttp://F4K-tutorialvideosampleF4outk
-F9inkhttp://F9K-tutorialvideosampleF9outk
-F10inkhttp://F10K-tutorialvideosampleF10outk
+F1inkhttps://www.youtube.com/watch?v=7KEqBuRdUCYF1outk
+F2inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=0m53sF2outk
+F3inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=1m07sF3outk
+F4inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=1m21sF4outk
+F9inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=2m11sF9outk
+F10inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=3m11sF10outk
 Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
 
 Tutorials in English
