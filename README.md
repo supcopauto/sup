@@ -1,6 +1,22 @@
-versioncheck 3.00 (항상 소수점 두자리까지 입력) Tutorials in Korean F1inkhttps://www.youtube.com/watch?v=7KEqBuRdUCYF1outk F2inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=0m53sF2outk F3inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=1m07sF3outk F4inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=1m21sF4outk F9inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=2m11sF9outk F10inkhttps://www.youtube.com/watch?v=7KEqBuRdUCY#t=3m11sF10outk Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
+versioncheck 3.00 (항상 소수점 두자리까지 입력) 
+Tutorials in Korean
+F1inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m14sF1outk
+F2inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m37sF2outk
+F3inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=25m17sF3outk
+F4inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=26m26sF4outk
+F9inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=27m04sF9outk
+F10inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=28m51sF10outk
+Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
 
-Tutorials in English F1inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=0m2sF1oute F2inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m11sF2oute F3inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m18sF3oute F4inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m38sF4oute F9inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=2m20sF9oute F10inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=3m47sF10oute Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ9MYXUMEmanualout
+Tutorials in English
+F1inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=0m2sF1oute
+F2inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m11sF2oute
+F3inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m18sF3oute
+F4inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m38sF4oute
+F9inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=2m20sF9oute
+F10inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=3m47sF10oute
+Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ9MYXUMEmanualout
+
 70409579629037 804091281572469 204123193271767 1204123067909246 404121152847322 204091052159280 404093968380949 130412976268063 
 804093020250770 504091490051706
 12815724691281572469(JWCOMP)  872474586872474586  25557866472555786647 38360974013836097401 130409872474586 35984712043598471204
