@@ -1,13 +1,6 @@
 versioncheck 3.00 (항상 소수점 두자리까지 입력) 
 43531526070
 
-4DESKTOP-6LHBODA412716122 FW19 Week03
-8NONOWAIT-PC712057107 FW19 Week03
-5DESKTOP-864T3J83927312390 FW19 Week03
-9DESKTOP-1M8K0G1451926584 FW19 Week03
-6DESKTOP-809E0D8748260668 FW19 Week03
-2DESKTOP-OK27KSH3094285430 FW19 Week03
-4AIDEN1654710499 FW19 Week03
 Tutorials in Korean
 F1inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m14sF1outk F2inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m37sF2outk F3inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=25m17sF3outk F4inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=26m26sF4outk F9inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=27m04sF9outk F10inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=28m51sF10outk Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
 Tutorials in English
