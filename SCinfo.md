@@ -87,4 +87,4 @@ F1inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=0m2sF1oute F2inehttps://www.y
 
 
 
-MJ집컴 2DESKTOP-D6PE K8E3193271767 FW19 Week03
+MJ집컴 2DESKTOP-D6PEK8E3193271767 FW19 Week03
