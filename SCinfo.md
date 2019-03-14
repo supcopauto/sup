@@ -1,26 +1,9 @@
 versioncheck 3.00 (항상 소수점 두자리까지 입력) 
 Tutorials in Korean
-F1inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m14sF1outk
-F2inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m37sF2outk
-F3inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=25m17sF3outk
-F4inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=26m26sF4outk
-F9inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=27m04sF9outk
-F10inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=28m51sF10outk
-Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
-
+F1inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m14sF1outk F2inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m37sF2outk F3inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=25m17sF3outk F4inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=26m26sF4outk F9inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=27m04sF9outk F10inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=28m51sF10outk Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
 Tutorials in English
-F1inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=0m2sF1oute
-F2inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m11sF2oute
-F3inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m18sF3oute
-F4inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m38sF4oute
-F9inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=2m20sF9oute
-F10inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=3m47sF10oute
-Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ9MYXUMEmanualout
-
-웅컴테스트 2DESKTOP-HA37M583067909246 Lifetime
-웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime
-회사컴테스트 8MDPL3722662011281572469 Lifetime
-
+F1inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=0m2sF1oute F2inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m11sF2oute F3inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m18sF3oute F4inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=1m38sF4oute F9inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=2m20sF9oute F10inehttps://www.youtube.com/watch?v=tn5UTnAO_3E#t=3m47sF10oute Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ9MYXUMEmanualout
+웅컴테스트 2DESKTOP-HA37M583067909246 Lifetime 웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime 회사컴테스트 8MDPL3722662011281572469 Lifetime
 70409579629037 804091281572469 204123193271767 1204123067909246 404121152847322 204091052159280 404093968380949 130412976268063 804093020250770 504091490051706 1281572469-1281572469(JWCOMP) 872474586872474586 25557866472555786647 38360974013836097401 130409872474586 35984712043598471204 904093020250770 
 =========3.0========
 10DESKTOP-R6C8JSG78973513 SS19 Week04
@@ -30,8 +13,6 @@ Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ
 4DESKTOP-U15V8J53531526070 SS19 Week13
 3DESKTOP-60V7TF8884402339 SS19 Week13
 4DESKTOP-5V90FNB2765909339 SS19 Week13
-
-
 3JUNMO-WIN103799654716 SS19 Week14
 5DESKTOP-ACVIKNT1317149078 SS19 Week14
 5DESKTOP-UQO4K2C1413789760 SS19 Week14
@@ -40,26 +21,19 @@ Emanualinhttps://drive.google.com/open?id=1CxvAHAxzZYn0MQFdJ-nvxfdMI683G6bCssPzZ
 8INSTANCE-2150041219 SS19 Week14
 9DESKTOP-PQH4GTI1315947962 SS19 Week14
 3DESKTOP-L8F9QQ63691150995 SS19 Week14
-
-
 4DESKTOP-ET4LV571113596271 SS19 Week15
-
 3DESKTOP-07GJP4R38182903 SS19 Week15
 7DESKTOP-F5VJTGV2712847316 SS19 Week15
 4DESKTOP-HRELJD538182903 SS19 Week15
 6PLUSKMC13736205328 SS19 Week15
 5DESKTOP-SB1DDKM2723202801 SS19 Week15
-
 6DESKTOP-MS4JTLS3392499288 SS19 Week15
 12CHARLESLIAND8B61689942615 SS19 Week15
 4DESKTOP-1RB9GAC1379598556 SS19 Week15
 3DESKTOP-T128EF62655973625 SS19 Week15
 9DESKTOP-882F09R645613886 SS19 Week15
 3DESKTOP-THUVVAN1144856524 SS19 Week15
-
 4MYPC2082304621 SS19 Week15
-
-
 5DESKTOP-LQ53QUN3225618572 SS19 Week15
 5DESKTOP-R1557MV1553336564 SS19 Week15
 3DESKTOP-8RCCGK538182903 SS19 Week15
