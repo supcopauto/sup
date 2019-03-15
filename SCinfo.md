@@ -1,5 +1,4 @@
 versioncheck 3.00 (항상 소수점 두자리까지 입력) 
-43531526070
 
 Tutorials in Korean
 F1inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m14sF1outk F2inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=23m37sF2outk F3inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=25m17sF3outk F4inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=26m26sF4outk F9inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=27m04sF9outk F10inkhttps://www.youtube.com/watch?v=AmhFNHmT79k#t=28m51sF10outk Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
@@ -101,3 +100,5 @@ MJ집컴 -2DESKTOP-D6PEK8E319 3271767- FW19 Week03
 웅컴테스트 -2DESKTOP-HA37M583067909246- Lifetime
 회사컴테스트 -8MDPL3722662011281572469- Lifetime
 -URL Parsing Complete
+
+-Your PC is Available-
