@@ -138,6 +138,7 @@ F1inehttps://youtu.be/m6dcOnpUk8U#t=10m24sF1oute F2inehttps://youtu.be/m6dcOnpUk
 
 
 13SUPREME-SERVER3705818563 FW19 Week05
+3DESKTOP-BKLTK47882899186 FW19 Week05
 
 
 웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime 
