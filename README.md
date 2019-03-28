@@ -45,4 +45,7 @@ Tutorials in Korean F1inkhttps://youtu.be/m6dcOnpUk8U#t=10m24sF1outk F2inkhttps:
 8040958331564
 70409271284731
 
+
+204123531526070(김건우 임시)
+
 -4444Your-PCisAvailable4444-
