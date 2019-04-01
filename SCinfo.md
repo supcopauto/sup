@@ -160,7 +160,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 
 3DESKTOP-FTUQAH93292812773 FW19 Week06
-
+13USEUROBOX2387294463 FW19 Week06
 
 
 웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime 
