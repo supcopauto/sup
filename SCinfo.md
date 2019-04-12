@@ -452,7 +452,7 @@ MJ구글us7 9feezzzzzzFZ-US72387294463
 웅구글UK1 8UKSUPREME3020250770 Lifetime
 
 아이피추가테스트
-웅회사컴 628.208.221.162_8chad.leeMDPL3722662011281572469 ip test ok
+웅회사컴 68.208.221.162_%%%8chad.leeMDPL3722662011281572469 ip test ok
 
 
 -URL Parsing Complete
