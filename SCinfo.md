@@ -434,7 +434,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 
 
-
+a
 
 웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime 
 MJ집컴 2ARDESKTOP-D6PEK8E3193271767 FW19 Week03
