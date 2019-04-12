@@ -434,7 +434,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 
 
-a
+
 
 웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime 
 MJ집컴 2ARDESKTOP-D6PEK8E3193271767 FW19 Week03
@@ -452,7 +452,7 @@ MJ구글us7 9feezzzzzzFZ-US72387294463
 웅구글UK1 8UKSUPREME3020250770 Lifetime
 
 아이피추가테스트
-웅회사컴 628.208.221.162_8chad.leeMDPL3722662011281572469 ip test ok
+웅회사컴 68.208.221.162_8chad.leeMDPL3722662011281572469 ip test ok
 
 
 -URL Parsing Complete
