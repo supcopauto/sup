@@ -662,7 +662,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime 
 MJ집컴 2ARDESKTOP-D6PEK8E3193271767 Lifetime
-MJ구글us1 35.245.222.56_9feezzzzzzFZ13020250770 Lifetime
+MJ구글us1 35.245.222.56_9feezzzzzzFZ13020250770 ip test ok
 MJ구글us2 9feezzzzzzFZ-US22387294463 Lifetime
 MJ구글us3 9feezzzzzzFZ-US32387294463 Lifetime
 MJ구글us4 9feezzzzzzFZ-US42387294463 Lifetime
