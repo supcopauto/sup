@@ -270,6 +270,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 35.245.237.174_12fire102nam81US12387294463 FW19 Week08
 5ownerDESKTOP-DMN1I3H1893879131 FW19 Week08
 35.245.131.58_11dkswlsdud13DKSWLSDUD13US012387294463 FW19 Week07
+35.245.104.231_11isaackang78FUCK-SUPREME150041219 FW19 Week08
 
 --------------------------------
 
