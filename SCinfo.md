@@ -281,7 +281,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 3TTYDESKTOP-60V7TF8884402339 FW19 Week13
 
 --------------------------------
-
+21277751032127775103 FW19 Week09 옆대리구글서버
 
 웅랩탑 9WINDOWS-C9CEU453296456134 Lifetime 
 MJ집컴 2ARDESKTOP-D6PEK8E3193271767 Lifetime
