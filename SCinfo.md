@@ -321,7 +321,10 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 
 
+
+
 3TTYDESKTOP-60V7TF8884402339 FW19 Week13
+
 --------------------------------
 
 35.245.213.139_21277751032127775103 옆대리서버1
