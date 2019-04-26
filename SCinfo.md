@@ -9,6 +9,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 ------------------------------
 
+
 4창욱이네DESKTOP-K4B0R012053776649 SS19 Week12
 4ShinSHIN-PC674482636 SS19 Week13
 6HyesooDESKTOP-RJVA97R2222043553 SS19 Week13
@@ -69,10 +70,10 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 35.245.184.180_9md_sunwooUS32387294463 Moondo F&F
 35.199.41.163_9md_sunwooUS42387294463 Moondo F&F
 35.245.250.208_9md_sunwooUS52387294463 Moondo F&F
-35.245.40.184_9md_sunwooUS72127775103 Moondo F&F
-35.221.4.147_9md_sunwooUS82127775103 Moondo F&F
-35.245.78.196_11kimjjaktongSU082127775103 Moondo F&F
-35.221.62.66_11kimjjaktongUS092127775103 Moondo F&F
+
+
+
+
 35.245.27.92_9md_sunwooUS62387294463 Moondo F&F
 5oh787LAPTOP-EHCTIEU5706924378 End of SS19
 35.245.197.164_12janejang8787MINSU12387294463 End of SS19
