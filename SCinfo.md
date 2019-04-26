@@ -333,10 +333,6 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 3TTYDESKTOP-60V7TF8884402339 FW19 Week13
 
---------------------------------
-PC방 1회성 인증
-8HightechARON-0951819651095
-8HightechARON-0961819651095
 
 
 
