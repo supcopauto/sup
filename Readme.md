@@ -1,3 +1,4 @@
+BStime ON
 versioncheck 3.00 대통합 전까지 3.00  (항상 소수점 두자리까지 입력) 
 Tutorials in Korean
 F1inkhttps://youtu.be/KTfFKedvido#t=09m30sF1outk F2inkhttps://youtu.be/KTfFKedvido#t=10m20sF2outk F3inkhttps://youtu.be/KTfFKedvido#t=12m00sF3outk F4inkhttps://youtu.be/KTfFKedvido#t=13m29sF4outk F9inkhttps://youtu.be/KTfFKedvido#t=14m02sF9outk F10inkhttps://youtu.be/KTfFKedvido#t=15m08sF10outk Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
