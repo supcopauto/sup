@@ -13,7 +13,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 
 
-4창욱이네DESKTOP-K4B0R012053776649 SS19 Week12
+
 
 6HyesooDESKTOP-RJVA97R2222043553 SS19 Week13
 
