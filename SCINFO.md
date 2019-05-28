@@ -10,18 +10,6 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 ------------------------------
 
 
-
-
-
-
-
-
-6HyesooDESKTOP-RJVA97R2222043553 SS19 Week13
-
-
-
-
-
 3박준모JUNMO-WIN103799654716 SS19 Week14
 35.188.253.118_6mcjy81US32127775103 SS19 Week14
 
