@@ -387,7 +387,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 35.245.27.53_9feezzzzzzUS62127775103 SCA Dev
 
 
-웅컴테스트 2CL==DESKTOP-HA37M583067909246 Lifetime
+웅컴테스트 2CLDESKTOP-HA37M583067909246 Lifetime
 회사컴테스트 8chad.leeMDPL3722662011281572469 End of SS19
 웅구글US1 8USSUPREME3020250770 Lifetime
 웅구글US2 8INSTANCE-1150041219 Lifetime
