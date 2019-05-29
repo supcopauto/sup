@@ -9,7 +9,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 ------------------------------
 
-20190529 330i 3.3 이후로 해당 서버  불가
+20190529 330i v3.3 이후로 해당 서버  불가
 
 -----------------------------
 
