@@ -348,6 +348,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 3이우영DESKTOP-SSO065Q1760489756 FW19 Week17
 5adminDESKTOP-UMKEECN1252675450 FW19 Week17
 4창욱이네DESKTOP-K4B0R012053776649 FW19 Week17
+3JayDESKTOP-L8F9QQ63691150995 FW19 Week17
 
 -----------------------------
 
