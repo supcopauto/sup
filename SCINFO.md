@@ -326,7 +326,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 4ShinSHIN-PC674482636 SS20 Week13
 4DillDILL-PC4066287580 SS20 Week14
 3신상협DESKTOP-MS4JTLS3392499288 SS20 Week15
-
+3sonSON-PC2695949980 End of FW19
 
 
 
