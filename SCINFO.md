@@ -327,7 +327,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 3신상협DESKTOP-MS4JTLS3392499288 SS20 Week15
 
 35.245.197.164_12janejang8787MINSU12387294463 End of FW19
-
+5cacazDESKTOP-7FKTDG7471845180 End of FW19
 
 
 
