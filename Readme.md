@@ -1,4 +1,4 @@
-(BStime = ON)
+(BStime = OFF)
 versioncheck 3.00 대통합 전까지 3.00  (항상 소수점 두자리까지 입력) 
 Tutorials in Korean
 F1inkhttps://youtu.be/KTfFKedvido#t=09m30sF1outk F2inkhttps://youtu.be/KTfFKedvido#t=10m20sF2outk F3inkhttps://youtu.be/KTfFKedvido#t=12m00sF3outk F4inkhttps://youtu.be/KTfFKedvido#t=13m29sF4outk F9inkhttps://youtu.be/KTfFKedvido#t=14m02sF9outk F10inkhttps://youtu.be/KTfFKedvido#t=15m08sF10outk Kmanualinhttps://drive.google.com/open?id=1Xy1WW-S-jum3YZ5vSc14-PulzUG9f3KvcaaPCV4rhkgKmanualout
@@ -14,19 +14,21 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 ----------------------------------
 
 
-
-3이우영DESKTOP-SSO065Q1760489756 SS19 Week17
-5thecmLAPTOP-KHQ3DAU83065036711 End of SS19
-13AdministratorMSDN-SPECIAL3183840 End of SS19
-11chamoosang2DESKTOP-KJ80L691717144878 End of SS19
 3hypDESKTOP-9OQJNJH1382361910 FW19 Week03
 4userDESKTOP-GS43KKE475179955 FW19 Week06
 5ykh31DESKTOP-TF6QJET785648263 FW19 Week07
-10hyun199623INSTANCE-11282753042 FW19 Week08
 35.245.93.1_7fgh333hUS12387294463 FW19 Week08
 35.186.179.47_7fgh333hINSTANCE-12387294463 FW19 Week08
-35.245.22.129_11chamoosang2MOOSANG12127775103 FW19 Week10
-35.199.7.105_11chamoosang2MOOSANG22127775103 FW19 Week10
+3이우영DESKTOP-SSO065Q1760489756 FW19 Week17
+11chamoosang2DESKTOP-KJ80L691717144878 End of FW19
+4UserDESKTOP-ECITFIB2555206475 End of FW19
+211.224.165.199_5thecmLAPTOP-KHQ3DAU83065036711 End of FW19
+35.245.22.129_11chamoosang2MOOSANG12127775103 End of FW19
+35.199.7.105_11chamoosang2MOOSANG22127775103 End of FW19
+5thecmLAPTOP-KHQ3DAU83065036711 End of FW19
+4게코파크DESKTOP-G9JI05S1144338093 End of FW19
+
+
 ---------------------------
 
 
