@@ -13,8 +13,6 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 
 ----------------------------------
 
-
-3hypDESKTOP-9OQJNJH1382361910 FW19 Week03
 4userDESKTOP-GS43KKE475179955 FW19 Week06
 5ykh31DESKTOP-TF6QJET785648263 FW19 Week07
 35.236.212.133_10dolzikgoo1US-13560170917 FW19 Week08
