@@ -26,20 +26,270 @@ Github Code
 35.236.229.150_12sangseop1123US-22387294463 Lifetime
 35.245.66.177_12sangseop1123US-32387294463 Lifetime
 35.245.193.187_12sangseop1123NEWYORKSERVER2387294463 Lifetime
-35.245.55.184_13mychorong1994MD42127775103 Moondo F&F
-35.245.10.78_13mychorong1994MD62127775103 Moondo F&F
-35.245.207.89_13mychorong1994MD52127775103 Moondo F&F
-35.199.46.195_13mychorong1994MD22127775103 Moondo F&F
-35.245.86.55_13mychorong1994MD32127775103 Moondo F&F
-35.245.201.232_13mychorong1994MD12127775103 Moondo F&F
-35.245.80.4_14staff_kabinettKB-62127775103 Moondo F&F
-35.236.245.59_14staff_kabinettKB-42127775103 Moondo F&F
-35.188.228.245_14staff_kabinettKB-32127775103 Moondo F&F
-35.245.182.199_14staff_kabinettKB-22127775103 Moondo F&F
-35.245.79.157_11dkelektm134KABI-03540333796 Moondo F&F
-35.245.247.47_11dkelektm134KABI-04540333796 Moondo F&F
-35.245.194.179_11dkelektm134KABI-05540333796 Moondo F&F
-35.245.158.185_14staff_kabinettKB-12127775103 Moondo F&F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35.236.193.51_10pscpsc4993US-12387294463 FW19 Week08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -139,24 +389,37 @@ Github Code
 3이경수DESKTOP-BC3NJR73159055910 SS20 Week10
 5seareDESKTOP-I1L5C6T4202638342 SS20 Week09
 35.231.246.220_10shinsho757EAST11915303269 SS20 Week10
-
+1wDESKTOP-EO3MV5E1556555960 SS20 Week10
 2서앵DESKTOP-11VOK0M2087528246 SS20 Week10
 3PCUDESKTOP-Q0FIOKH443059196 SS20 Week10
 35.199.56.55_11changun0104US12387294463 SS20 Week10
 7HongjaeDESKTOP-MR3TBEU618675805 SS20 Week10
 4TangDESKTOP-PUKMP1L1784088660 SS20 Week10
 35.221.36.167_8escpremeINSTANCE-12728282750 SS20 Week10
-1wDESKTOP-EO3MV5E1556555960 SS20 Week10
+35.199.57.152_10dolzikgoo1INSTANCE-13560170917 SS20 Week11
+13AdministratorEC2AMAZ-S19FI9V3905386407 SS20 Week11
 96.82.137.49_14Byoung Kyu KimBYOUNGKYU2186865331 SS20 Week11
 3JayDESKTOP-MQLMPDK3928886706 SS20 Week11
-
-13AdministratorEC2AMAZ-S19FI9V3905386407
-
 5rlaalDESKTOP-BLBTL7C4201843201 SS20 Week13
+4USERDESKTOP-5V90FNB2765909339 SS20 Week13
 13AdministratorPC0803094051338 SS20 Week13
+35.245.75.71_8bf79b002SUP-US13560170917 SS20 Week13
 8SOLD_OUTDESKTOP-0NMNH842555807340 SS20 Week14
-35.194.74.100_8mrkimch3US22459711760 SS20 Week16
 5eunseDESKTOP-VFT8I0P1450530375 SS20 Week16
+
+35.194.74.100_8mrkimch3US22459711760 SS20 Week16
+
+
+
+
+
+
+
+
+
+
+
+
 -----------------------------
 
 
