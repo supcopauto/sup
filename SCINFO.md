@@ -15,7 +15,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 15leesangseop1123SUPCOP6304787358 Sangseob
 15leesangseop1123SUPCOP7304787358 Sangseob
 
-
+13AdministratorEC2AMAZ-S19FI9V3905386407_ Temporary
 
 ------------------------------
 Github Code
