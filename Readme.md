@@ -20,7 +20,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 3이우영DESKTOP-SSO065Q1760489756 SS20 Week18
 4UserDESKTOP-ECITFIB2555206475 End of SS20
 
-5ykh31DESKTOP-TF6QJET785648263 FW20 Week10
+35.245.18.129_7ykh3136US13560170917 FW20 Week09
 
 ----------------------------------
 
