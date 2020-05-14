@@ -20,7 +20,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 4UserDESKTOP-ECITFIB2555206475 End of SS20
 
 35.245.18.129_7ykh3136US13560170917 FW20 Week09
-
+4userDESKTOP-GS43KKE475179955 FW20 Week12
 ----------------------------------
 
 
