@@ -59,6 +59,7 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 5oh787LAPTOP-GUFAGUFQ706924378 End of SS21
 5hyounDESKTOP-1Q291S22854364408 End of SS21
 5amarcDESKTOP-9LQV6RC2527367544 End of SS21
+4UserDESKTOP-4BN3VSE3291227821 FW21 Week02
 
 
 ----------------------------------
