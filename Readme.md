@@ -24,7 +24,10 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 4HANADESKTOP-GOL6IF14143386051 Lifetime
 4AlexLAPTOP-FKEJTTOB3401749260 Lifetime
 
+3GomGOMS2462235608 End of FW22
+5sunghDESKTOP-SCGAGIP2652733163 End of FW22
 5AORUSDESKTOP-35JS4OM3572595073 FW22 Week03
+
 ----------------------------------
 
 
