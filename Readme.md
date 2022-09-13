@@ -27,7 +27,8 @@ F1inehttps://youtu.be/KTfFKedvido#t=09m30sF1oute F2inehttps://youtu.be/KTfFKedvi
 3GomGOMS2462235608 End of FW22
 5sunghDESKTOP-SCGAGIP2652733163 End of FW22
 5AORUSDESKTOP-35JS4OM3572595073 FW22 Week03
-
+3GomGOMS2462235608 SS23 Week03
+5sunghDESKTOP-SCGAGIP2652733163 SS23 Week03
 ----------------------------------
 
 
